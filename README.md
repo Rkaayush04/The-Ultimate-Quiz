@@ -1,5 +1,6 @@
                                      **The Ultimate Quiz**
                                              
+![images](https://github.com/Rkaayush04/The-Ultimate-Quiz/assets/152067559/8e76f72f-2e0a-4b1a-9a7b-17f6b8c7b5ec)
 
 - The project “The Ultimate Quiz” is an interactive quiz with three different difficulty levels designed to test and enhance the participant’s knowledge.
 - The project is provided the general instructions and specific instructions for each level (Easy, Moderate and Difficult). The project involves asking a series of questions with multiple-choice answers and determining the participant's score based on correct and incorrect responses. The participant needs to qualify for each level to progress to the next level. The final result and the option to receive a certificate are also included.
