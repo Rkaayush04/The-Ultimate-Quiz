@@ -15,6 +15,19 @@ Summary:-
 - To find the result and to calculate the final score of the quiz, ‘Percentage Formula’ is used as **“percentage = ((score / (total_score)) * 100)”**, here ‘total_score’ depends on the difficulty level of the quiz.
 - At last to print the certificate “print statements” are used to output text, formatting and information to the user.
 
+
+![image](https://github.com/Rkaayush04/The-Ultimate-Quiz/assets/152067559/43b8ab50-8a9a-44d7-b9e6-3963db3f7c20)
+
+Fig:Snapshot of having correct answer
+
+![image](https://github.com/Rkaayush04/The-Ultimate-Quiz/assets/152067559/a305b0ce-7621-4f51-9b46-786557769516)
+
+Fig:Snapshot of having wrong answer
+
+![image](https://github.com/Rkaayush04/The-Ultimate-Quiz/assets/152067559/5f6be8ce-745c-4a0a-88d7-6ce726638de6)
+
+Fig:Snapshot of final result
+
  ![image](https://github.com/Rkaayush04/The-Ultimate-Quiz/assets/152067559/a66ab2a2-d078-4a89-9625-f694a1784d1b)
 
 Fig:Snapsnot of Certificate
