@@ -1,4 +1,4 @@
-                                                                     **The Ultimate Quiz**
+                                     **The Ultimate Quiz**
                                              
 
 - The project “The Ultimate Quiz” is an interactive quiz with three different difficulty levels designed to test and enhance the participant’s knowledge.
@@ -15,5 +15,5 @@ Summary:-
 - To find the result and to calculate the final score of the quiz, ‘Percentage Formula’ is used as **“percentage = ((score / (total_score)) * 100)”**, here ‘total_score’ depends on the difficulty level of the quiz.
 - At last to print the certificate “print statements” are used to output text, formatting and information to the user.
 
-            ![image](https://github.com/Rkaayush04/The-Ultimate-Quiz/assets/152067559/a66ab2a2-d078-4a89-9625-f694a1784d1b)
-                                            Fig:Snapsnot of Certificate
+ ![image](https://github.com/Rkaayush04/The-Ultimate-Quiz/assets/152067559/a66ab2a2-d078-4a89-9625-f694a1784d1b)
+                             Fig:Snapsnot of Certificate
