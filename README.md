@@ -16,4 +16,5 @@ Summary:-
 - At last to print the certificate “print statements” are used to output text, formatting and information to the user.
 
  ![image](https://github.com/Rkaayush04/The-Ultimate-Quiz/assets/152067559/a66ab2a2-d078-4a89-9625-f694a1784d1b)
- Fig:Snapsnot of Certificate
+
+Fig:Snapsnot of Certificate
